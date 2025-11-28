@@ -1,10 +1,8 @@
 
         section {
             width: 100%;
-            height: 100vh;                   
-            /* background-image: url("./CA2B0A25-FEAA-4A76-B07D-5E7CA470BF74.PNG"); */
+            height: auto;                   
             background-image: url("/image.jpg");
-            /* background-image: url("./3.PNG"); */
             background-size: cover;          
             background-position: center;    
             background-repeat: no-repeat;     
